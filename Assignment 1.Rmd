@@ -1,11 +1,13 @@
 ---
 title: "Assignment 1"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 ## read and view data in R
 ```{r}
 data = read.csv("mosqtemp.csv")
-data
+head(data)
 
 ```
 
@@ -33,7 +35,7 @@ summary(data)
 
 ```{r}
 data$double_Urban = data$Urban * 2
-data
+head(data)
 ```
 
 ```{r}
