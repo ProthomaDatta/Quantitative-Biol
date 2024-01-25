@@ -1,8 +1,8 @@
 ---
 title: "Assignment"
 output:
-  pdf_document: default
   html_notebook: default
+  pdf_document: default
 ---
 ## read and View data in R
 
@@ -44,7 +44,6 @@ summary(fish_data)
 #### Summery of this data gives a simple statistics of each column.The statistics includes Max, Median, Mean, Min, 1st Quartile and 3rd quartile of 1st, 2nd, 3rd, 5th, 8th colums; length, class, mode of 4th and 6th colums; mode, false true and  NA's of 7th colum.
 
 #### Calculation of data with adding a column
-
 
 ```{r}
 fish_data$double_ph_of_water = fish_data$ph_of_water * 2

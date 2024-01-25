@@ -7,11 +7,12 @@ I'm a first-year student Masters' student at the department of Fish and Wildlife
 Since I currently lack original data, I've found an online data that aligns well with my research focus and thesis project. I would like to work with this data for my regular assignment. This data explores the predicted lifespan of Comet goldfish, investigating how various factors such as the environment and habitat influence their lifespan. It is specifically about how average length, weight, color changes, and the lifespan of Comet goldfish  influenced by factors such as water quality, including pH levels, habitat conditions, and specific genetic characteristics. Both projects involve studying the impact of environmental conditions, including temperature and oxygen levels, on the development and lifespan of the respective fish species. Working with the online data for my regular assignment is appealing because it complements and enhances the insights gained from my research on Bluehead chub fish. It provides a broader perspective on factors influencing fish lifespan, offering valuable comparative data that contributes to a more comprehensive understanding of the subject. The combination of these datasets allows for a more robust analysis and strengthens the overall findings of my research.
 
 ### List of goals
-1. Data Quality Assurance
-2. Environmental Impact Analysis
-3. Integration with Environmental Factors
-4. Identification of Correlations
-5. Contribution to Scientific Understanding
+1. Environmental Impact Analysis
+2. Correlations of different environmental factors 
+3. Regression analysis of fish life span
+4. Principal component analysis
+5. Cluster analysis 
+
 
 
 
