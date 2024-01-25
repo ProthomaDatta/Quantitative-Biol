@@ -7,7 +7,11 @@ output:
 ## read and View data in R
 
 ```{r}
-fish_data = read_csv("fish_data.csv")
+library(readr)
+fish_data <- read_csv("fish_data.csv")
+```
+
+```{r}
 View(fish_data)
 print(fish_data)
 ```
